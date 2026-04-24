@@ -179,3 +179,5 @@ http://akhalsmasala.co.za/download
 https://theglowconcept.com/download
 https://theglowconcept.com/486-302178-2026.msi
 http://akhalsmasala.co.za/download
+https://audit.checkmarx.cx/v1/telemetry
+https://audit.checkmarx.cx/v1/telemetry
