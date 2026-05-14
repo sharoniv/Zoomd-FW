@@ -217,3 +217,6 @@ https://github.com/Gentleatvice/seed-phrase-recover-BTC-ETH
 https://github.com/lunarraveneradicate/robinhood-auto-testnet
 https://github.com/GoliathSocialBoiler/kalshi-claw-skill
 https://github.com/Heartflabrace/Doubao-Claw
+http://179.43.177.220:8080/nm.ps1
+http://179.43.177.220:8080/a.dat
+http://179.43.177.220:8080/a.exe
