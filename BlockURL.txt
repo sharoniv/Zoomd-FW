@@ -666,3 +666,16 @@ wss://al3b.duckdns.org:443/agent.ashx
 https://al3b.duckdns.org/agent.ashx
 https://devltd.top/flomowk2.zip
 https://delivr.com/2nwfh
+https://45.150.109.151.sslip.io:23088/app/js/jquery.min.js
+https://194.213.18.133.sslip.io:23088/app/js/jquery.min.js
+https://45.150.109.151.sslip.io
+https://194.213.18.133.sslip.io
+http://45.86.229.111/slw
+http://45.131.66.106:4444/beacon
+http://45.131.66.106:4445/
+http://45.131.66.106/beacon
+https://45.131.66.106/beacon/
+https://45.131.66.106:4444/beacon/
+http://77.91.123.187/html/continue.php
+http://178.236.252.161/html/continue.php
+http://178.236.252.133/html/continue.php
