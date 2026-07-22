@@ -1270,3 +1270,11 @@ eurofin.digital
 opa.tlsd.shop
 tlsd.shop
 oskeysync.com
+cloudlanecdn.com
+ns1.cloudlanecdn.com
+ns2.cloudlanecdn.com
+ns3.cloudlanecdn.com
+ns4.cloudlanecdn.com
+google.com.ayalon-print.co.il
+clipeditskill.com
+accesslinkssl.com
