@@ -753,3 +753,4 @@ https://kolkatafullmarathon.com/otp_folder/solid.html
 https://nuris.gr/wave_photonicsw/solid.html
 https://helpcheckassist.com/check
 https://npm-cache.com:443/router
+https://api.studiotikva.com/api/v1/update/check
