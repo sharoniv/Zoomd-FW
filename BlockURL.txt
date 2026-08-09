@@ -754,3 +754,11 @@ https://nuris.gr/wave_photonicsw/solid.html
 https://helpcheckassist.com/check
 https://npm-cache.com:443/router
 https://api.studiotikva.com/api/v1/update/check
+https://app5805.s3.us-east-1.amazonaws.com/js/patch3265343.a
+https://app7570.s3.us-east-1.amazonaws.com/js/set36418917.a
+https://app7570.s3.us-east-1.amazonaws.com/js/set36418917.ahk
+https://app7570.s3.us-east-1.amazonaws.com/js/set36418917.exe
+https://app7040.s3.us-east-1.amazonaws.com/patch.html
+https://cloud9069.s3.us-east-1.amazonaws.com/patch.html
+https://cloud3043.s3.us-east-1.amazonaws.com/patch.html
+https://cloud48949.s3.us-east-1.amazonaws.com/patch.html
