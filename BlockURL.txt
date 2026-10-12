@@ -1082,3 +1082,5 @@ https://api.recapcha.fun/auth/v2?token=306
 http://api.recapcha.fun/auth/we?token=undefined
 https://shell-node-7uxe.vercel.app/activator/windows?id=e
 https://shell-node-7uxe.vercel.app/activator/windows?id=s
+http://103.180.163.204/login.php?id=117
+http://98.142.252.140:9000/wmglb
